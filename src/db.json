@@ -1,0 +1,20 @@
+{
+    "articles": [
+      {
+        "id": "1",
+        "title": "judul 1",
+        "content": "info bliard"
+      },
+      {
+        "id": "2",
+        "title": "judul 2",
+        "content": "info link"
+      },
+      {
+        "id": "3",
+        "title": "judul3",
+        "content": "info-info"
+      }
+      
+    ]
+  }
